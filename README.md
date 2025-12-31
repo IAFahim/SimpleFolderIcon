@@ -56,7 +56,7 @@ Unity2019.4 or later
 - Window > Package Manager > Add package from git URL...
 
 ```
-https://github.com/SeaeeesSan/SimpleFolderIcon.git?path=Packages/com.seaeees.simple-folder-icon
+https://github.com/IAFahim/SimpleFolderIcon.git?path=Packages/com.seaeees.simple-folder-icon
 ```
 
 ### Install via OpenUPM
@@ -65,7 +65,7 @@ openupm add com.seaeees.simple-folder-icon
 ```
 
 ### Install manually (.unitypackage)
-- Download the package from [Releases](https://github.com/SeaeeesSan/SimpleFolderIcon/releases).
+- Download the package from [Releases](https://github.com/IAFahim/SimpleFolderIcon/releases).
 
  
 ## License
